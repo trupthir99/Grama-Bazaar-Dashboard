@@ -3,6 +3,9 @@
 ## Project Overview
 
 Grama Bazaar is an agricultural market analytics dashboard designed to help farmers identify the most profitable markets for selling crops. The project integrates market prices, crop information, village locations, and transportation distances to support data-driven decision-making.
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
 
 ## Problem Statement
 
